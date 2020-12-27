@@ -26,10 +26,10 @@ ___Dataset___
  
 ___Steps___
 
-  * parse_xml.py
+  * [parse_xml.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/parse_xml.py)
     * iBUG 300-W dataset has images with 68 landmarks. In this case, only 35 landmarks are considered. [labels_ibug_300W_train.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/labels_ibug_300W_train.xml) as the input file and [reduced_labels_ibug_300W_train_35_points.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/reduced_labels_ibug_300W_train_35_points.xml) as the output file have to given as command line arguments.
     
-  * train_shape_predictor.py
+  * [train_shape_predictor.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/train_shape_predictor.py)
     * In this program, the [reduced_labels_ibug_300W_train_35_points.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/reduced_labels_ibug_300W_train_35_points.xml) is given as xml_path and it creates the predictor_points.dat file which is used to predict the landmarks of test images.
    
    ## Testing the model ##
@@ -37,10 +37,10 @@ ___Steps___
    
 ___Steps___
 
-  * predict_points.py
+  * [predict_points.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/predict_points.py)
     * In this program, some human images in the test_images folder is given as inputs and get the predicted landmarks for that images. The resulted images are saved in the results folder.
     
-  * evaluate_shape_predictor.py
+  * [evaluate_shape_predictor.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/evaluate_shape_predictor.py)
     * In this program, the [reduced_labels_ibug_300W_test_35_points.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/reduced_labels_ibug_300W_test_35_points.xml) is given as xml_path and the predictor_points.dat as model and it outputs an error value after evaluating the results for the images which is in reduced_labels_ibug_300W_test_35_points.xml
     
  ## Structure ##
