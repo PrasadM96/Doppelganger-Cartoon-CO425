@@ -22,15 +22,15 @@ Train a model to predict the 35 landmarks on human faces<a name="TOP"></a>
   
   
 ___Dataset___
-  : iBUG 300-W dataset which has is used to train the model. To create the iBUG-300W dataset, researchers manually and painstakingly annotated and labeled each of the 68 coordinates on a total of 7,764 images.
+  : iBUG 300-W dataset (https://ibug.doc.ic.ac.uk/resources/300-W/) which has is used to train the model. To create the iBUG-300W dataset, researchers manually and painstakingly annotated and labeled each of the 68 coordinates on a total of 7,764 images.
  
 ___Steps___
 
   * parse_xml.py
-    * iBUG 300-W dataset has images with 68 landmarks. In this case, only 35 landmarks are considered. labels_ibug_300W_train.xml as the input file and reduced_labels_ibug_300W_train_35_points.xml as the output file have to given as command line arguments.
+    * iBUG 300-W dataset has images with 68 landmarks. In this case, only 35 landmarks are considered. [labels_ibug_300W_train.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/labels_ibug_300W_train.xml) as the input file and [reduced_labels_ibug_300W_train_35_points.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/reduced_labels_ibug_300W_train_35_points.xml) as the output file have to given as command line arguments.
     
   * train_shape_predictor.py
-    * In this program, the reduced_labels_ibug_300W_train_35_points.xml is given as xml_path and it creates the predictor_points.dat file which is used to predict the landmarks of test images.
+    * In this program, the [reduced_labels_ibug_300W_train_35_points.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/reduced_labels_ibug_300W_train_35_points.xml) is given as xml_path and it creates the predictor_points.dat file which is used to predict the landmarks of test images.
    
    ## Testing the model ##
    
@@ -41,27 +41,27 @@ ___Steps___
     * In this program, some human images in the test_images folder is given as inputs and get the predicted landmarks for that images. The resulted images are saved in the results folder.
     
   * evaluate_shape_predictor.py
-    * In this program, the reduced_labels_ibug_300W_test_35_points.xml is given as xml_path and the predictor_points.dat as model and it outputs an error value after evaluating the results for the images which is in reduced_labels_ibug_300W_test_35_points.xml
+    * In this program, the [reduced_labels_ibug_300W_test_35_points.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/reduced_labels_ibug_300W_test_35_points.xml) is given as xml_path and the predictor_points.dat as model and it outputs an error value after evaluating the results for the images which is in reduced_labels_ibug_300W_test_35_points.xml
     
  ## Structure ##
 
 ### File Description ###
 
-  * parse_xml.py : to reduce the xmlfile from 68 points to 35 points
-  * train_shape_predictor.py : train the model for predicting 35 lanmarks on human face
-  * predict_points.py : test the model for some custom images
-  * evaluate_shape_predictor.py :  to evaluate the model for training set and test set and gives the MAE as output
-  * labels_ibug_300W.xml
-  * labels_ibug_300W_test.xml : xml file for test with 68 landmarks
-  * labels_ibug_300W_train.xml : xml file for train with 68 landmarks
-  * reduced_labels_ibug_300W_test_35_points.xml : xml file for test with 35 landmarks
-  * reduced_labels_ibug_300W_train_35_points.xml : xml file for train with 35 landmarks
+  * [parse_xml.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/parse_xml.py) : to reduce the xmlfile from 68 points to 35 points
+  * [train_shape_predictor.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/train_shape_predictor.py) : train the model for predicting 35 lanmarks on human face
+  * [predict_points.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/predict_points.py) : test the model for some custom images
+  * [evaluate_shape_predictor.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/evaluate_shape_predictor.py) :  to evaluate the model for training set and test set and gives the MAE as output
+  * [labels_ibug_300W.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/labels_ibug_300W.xml)
+  * [labels_ibug_300W_test.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/labels_ibug_300W_test.xml) : xml file for test with 68 landmarks
+  * [labels_ibug_300W_train.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/labels_ibug_300W_train.xml) : xml file for train with 68 landmarks
+  * [reduced_labels_ibug_300W_test_35_points.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/reduced_labels_ibug_300W_test_35_points.xml) : xml file for test with 35 landmarks
+  * [reduced_labels_ibug_300W_train_35_points.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/reduced_labels_ibug_300W_train_35_points.xml) : xml file for train with 35 landmarks
   
 
 ### Folder Description ###
 
-  * test_images : containing some custom test images
-  * results : results of the custom images
+  * [test_images](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/custom-dlib-lanmarks-predictor-human-faces/test_images) : containing some custom test images
+  * [results](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/custom-dlib-lanmarks-predictor-human-faces/results) : results of the custom images
 
 
 
