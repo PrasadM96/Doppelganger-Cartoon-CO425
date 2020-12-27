@@ -62,6 +62,39 @@ ___Steps___
 
   * [test_images](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/custom-dlib-lanmarks-predictor-human-faces/test_images) : containing some custom test images
   * [results](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/custom-dlib-lanmarks-predictor-human-faces/results) : results of the custom images
+  
+  
+  ## Results ##
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Alfredo_Linguini_Real.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Alice_real1.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Dora_real.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Flynn_rider_real2.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Flynn_rider_real3.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Hiro_real2.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Homer_simpson_real1.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Homer_simpson_real3.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Mr_potato_head_real1.png "Title is optiona")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Nanny_pelakai_real1.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Prince_hans_real.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Roxanne_real1.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/Sid_real1.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/baby_and_father.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/baby_and_father2.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/black_widow_real1.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/edna_real3.png "Title is optiona")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/elsa_real4.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/fawn_real1_1.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/gothel.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/jack_forest_real5.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/jesmine_Real.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/merida_real.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/percy_real.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/pocahontas_real1.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/princess_ariel_real.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/russel.png "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-human-faces/results/snow_white_real.png "Title is optional")
+
+
 
 
 
