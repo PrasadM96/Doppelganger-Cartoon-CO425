@@ -42,7 +42,7 @@ ___Steps___
 
   * [train_shape_predictor.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-cartoon-faces/train_shape_predictor.py) : train the model for predicting 35 lanmarks on cartoon face
   * [predict_points.py](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-cartoon-faces/predict_points.py) : test the model for some custom images
-  *[Both_Cartoon_faces_with_landmakrs_train.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-cartoon-faces/Both_Cartoon_faces_with_landmakrs_train.xml) : xml file for train with 35 landmarks of cartoon images 
+  * [Both_Cartoon_faces_with_landmakrs_train.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-cartoon-faces/Both_Cartoon_faces_with_landmakrs_train.xml) : xml file for train with 35 landmarks of cartoon images 
   * [Both_Cartoon_face_with_landmarks_test.xml](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-cartoon-faces/Both_Cartoon_face_with_landmarks_test.xml) : xml file for test with 35 landmarks of cartoon images 
   * [mmod_human_face_detector.dat](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-lanmarks-predictor-cartoon-faces/mmod_human_face_detector.dat) : dat file for detect the face of cartoon images.
 
