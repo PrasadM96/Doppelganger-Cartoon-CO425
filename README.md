@@ -14,3 +14,6 @@ This an application which gives the best matching cartoon image for a given huma
 * [custom-dlib-lanmarks-predictor-human-faces](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/custom-dlib-lanmarks-predictor-human-faces) 
   * This folder contains the python files and results for training a model for lanmdark detection of Human faces.
 
+### Human-Human comparing approach ###
+* [custom-dlib-lanmarks-predictor-human-faces](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/custom-dlib-lanmarks-predictor-human-faces) 
+  * This folder contains the python files and results for human-human comparing approach.
