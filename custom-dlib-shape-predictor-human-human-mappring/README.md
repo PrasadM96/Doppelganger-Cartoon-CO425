@@ -24,44 +24,44 @@
 ## Results ##
 
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/alice.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/alice.jpg" min-width="300" alt="accessibility text">
 <div>
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/elarstic.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/elarstic.jpg" min-width="300" alt="accessibility text">
 <div>
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/eric.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/eric.jpg" min-width="300" alt="accessibility text">
 <div>
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/flynn.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/flynn.jpg" min-width="300" alt="accessibility text">
 <div>
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/hans.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/hans.jpg" min-width="300" alt="accessibility text">
 <div>
 <div>
 <img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/hiccup.jpg" min-width="300" alt="accessibility text">
 <div>
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/hiro.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/hiro.jpg" min-width="300" alt="accessibility text">
 <div>
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/images.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/images.jpg" min-width="300" alt="accessibility text">
 <div> 
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/jackfrost_2.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/jackfrost_2.jpg" min-width="300" alt="accessibility text">
 <div> 
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/rapunzel.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/rapunzel.jpg" min-width="300" alt="accessibility text">
 <div> 
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/sid.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/sid.jpg" min-width="300" alt="accessibility text">
 <div>
  <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/slivermist.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/slivermist.jpg" min-width="300" alt="accessibility text">
 <div> 
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/snow.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/snow.jpg" min-width="300" alt="accessibility text">
 <div>
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/snow.jpg" max-width="300" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/snow.jpg" min-width="300" alt="accessibility text">
 <div>
