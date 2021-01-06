@@ -35,6 +35,11 @@
 ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/sid.jpg "Title is optional")
 ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/slivermist.jpg "Title is optional")
 ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/snow.jpg "Title is optional")
+<div>
 <img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/snow.jpg" max-width="200" alt="accessibility text">
+<div>
+ <div>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/snow.jpg" max-width="200" alt="accessibility text">
+<div>
 
 
