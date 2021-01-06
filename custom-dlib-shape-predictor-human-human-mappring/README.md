@@ -24,12 +24,14 @@
 ## Results ##
 
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/alice.jpg" width=300 alt="accessibility text"> 
- <span> <img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/alice.jpg" width=300 alt="accessibility text"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/alice.jpg" width=300 alt="accessibility text"> &nbsp;
+ <span> <img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/alice_match.png"> </span>
 <div>
 
 <div>
 <img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/elarstic.jpg"  width=300 alt="accessibility text">
+ &nbsp;
+ <span> <img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/alice_match.png"> </span>
 <div>
 <div>
 <img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/eric.jpg" width=300  alt="accessibility text">
