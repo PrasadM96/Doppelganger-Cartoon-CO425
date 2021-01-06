@@ -24,10 +24,10 @@
 ## Results ##
 
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/alice.jpg" style="width: 300px;" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/alice.jpg" width=300 alt="accessibility text">
 <div>
 <div>
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/elarstic.jpg" style="width: 300px;" alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/elarstic.jpg"  width=300 alt="accessibility text">
 <div>
 <div>
 <img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/eric.jpg" style="width: 300px;" alt="accessibility text">
