@@ -24,4 +24,4 @@ This an application which gives the best matching cartoon image for a given huma
 
 ### Pretrained Comparison Model ###
  * [pretrained-comparison-model](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/pretrained-comparison-model)
-  * This folder contains the python files and results using the frontal face for face detection and vgg16 model for feature extraction.
+   * This folder contains the python files and results using the frontal face for face detection and vgg16 model for feature extraction.
