@@ -46,7 +46,7 @@ Our dataset containing 58 cartoon characters and 406 images (348 images for trai
  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/cartoon-classification/Results/alice_match.png "Title is optional")
  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/cartoon-classification/Results/eric_match.png "Title is optional")
  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/cartoon-classification/Results/flynn_match.png "Title is optional")
- ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/cartoon-classification/Results/images_match.png"Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/cartoon-classification/Results/images_match.png "Title is optional")
  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/cartoon-classification/Results/rapunzel.png "Title is optional")
   ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/cartoon-classification/Results/slivermist_match.png "Title is optional")
    ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/cartoon-classification/Results/snow_match.png "Title is optional")
