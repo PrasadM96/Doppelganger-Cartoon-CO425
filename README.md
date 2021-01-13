@@ -17,3 +17,11 @@ This an application which gives the best matching cartoon image for a given huma
 ### Human-Human comparing approach ###
 * [custom-dlib-lanmarks-predictor-human-faces](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/custom-dlib-shape-predictor-human-human-mappring) 
   * This folder contains the python files and results for human-human comparing approach.
+
+### Cartoon Classification ###
+* [cartoon-classification](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/cartoon-classification)
+  * This folder containes the python files and results using the image classification
+
+### Pretrained Comparison Model ###
+ * [pretrained-comparison-model](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/pretrained-comparison-model)
+  * This folder contains the python files and results using the frontal face for face detection and vgg16 model for feature extraction.
