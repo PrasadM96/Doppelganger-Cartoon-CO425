@@ -22,62 +22,53 @@ VGG16 is a convolution neural net (CNN ) architecture which was used to win ILSV
 </div>
 <hr>
 <div style="height:300" >
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/elarstic.jpg"  width=200 alt="accessibility text">
- <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/elarstic_match.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Gothel/gothen_real3.jpg"  width=200 alt="accessibility text">
+ <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Gothel/gothen_match_2.png"> </span>
 </div>
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/eric.jpg" width=200  alt="accessibility text">
-  <span> <img  align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/eric_match.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Hiro/Hiro_real4.jpg" width=200  alt="accessibility text">
+  <span> <img  align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Hiro/Hiro_match_2.png"> </span>
 </div>
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/flynn.jpg" width=200  alt="accessibility text">
-  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/flynn_match.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Merida/merida_real.jpg" width=200  alt="accessibility text">
+  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Merida/merida_match_1.png"> </span>
 </div>
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/hans.jpg" width=200  alt="accessibility text">
-  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/hans_match.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Moona/Moana_real2.jpg" width=200  alt="accessibility text">
+  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Moona/Moana_match_1.png"> </span>
 </div>
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/hiccup.jpg" width=200  alt="accessibility text">
-  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/hiccup_match.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Moona2/Moana_real3.jpg" width=200  alt="accessibility text">
+  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Moona2/Moana_match_1.png"> </span>
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/hiro.jpg" width=200  alt="accessibility text">
-  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/hiro_match.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Russel/russe.jpg" width=200  alt="accessibility text">
+  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Russel/russe_match_2.png"> </span>
 </div>
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/images.jpg" width=200  alt="accessibility text">
-  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/images_match.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Woody/Woody.png" width=200  alt="accessibility text">
+  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/Woody/woody_match_2.png"> </span>
 </div> 
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/jackfrost_2.jpg" width=200  alt="accessibility text">
-  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/alice_match.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/jack_forest/jack_forest_real1.jpg" width=200  alt="accessibility text">
+  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/jack_forest/jack_forest_match_2.png"> </span>
 </div> 
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/rapunzel.jpg" width=200  alt="accessibility text">
-  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/rapunzel_match.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/kristoff/kristoff_real.jpg" width=200  alt="accessibility text">
+  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/kristoff/kristoff.png"> </span>
 </div> 
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/sid.jpg" width=200  alt="accessibility text">
-  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/sid.png"> </span>
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/rapunzel/rapunzel_real5.jpg" width=200  alt="accessibility text">
+  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/pretrained-comparison-model/Results/rapunzel/rapunzel_match.png"> </span>
 </div>
-<hr>
- <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/slivermist.jpg" width=200  alt="accessibility text">
-   <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/silvermist.png"> </span>
-</div> 
-<hr>
-<div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Test%20images/snow.jpg" width=200  alt="accessibility text">
-  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/custom-dlib-shape-predictor-human-human-mappring/Results/snow.png"> </span>
-</div>
+
 
 
