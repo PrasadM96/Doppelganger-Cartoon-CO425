@@ -1,4 +1,11 @@
-# Comparison using landmarks + hair
+# Comparison using landmarks + hair #
+
+## Method ##
+* In here, the [face landmarks prediction of cartoon images] (https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/custom-dlib-lanmarks-predictor-cartoon-faces) & [face landmark prediction of human images](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/custom-dlib-lanmarks-predictor-cartoon-faces) are used for predict the 35 landmarks on cartoon faces and human images.
+* The features of face (areas and distances between landmarks) are extracted and stored in a CSV file.
+* In this approach, Hair extraction also combined to the comparison.
+
+
 
 ## Results ##
 
