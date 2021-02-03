@@ -25,3 +25,7 @@ This an application which gives the best matching cartoon image for a given huma
 ### Pretrained Comparison Model ###
  * [pretrained-comparison-model](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/pretrained-comparison-model)
    * This folder contains the python files and results using the frontal face for face detection and vgg16 model for feature extraction.
+   
+### Landmarks + Hair Comparison Model ###
+ * [comparison_landmarks_and_hair](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/comparison_landmarks_and_hair)
+  * combination of landmark based model and hair extraction model.
