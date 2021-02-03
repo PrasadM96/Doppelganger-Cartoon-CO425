@@ -28,4 +28,4 @@ This an application which gives the best matching cartoon image for a given huma
    
 ### Landmarks + Hair Comparison Model ###
  * [comparison_landmarks_and_hair](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/tree/main/comparison_landmarks_and_hair)
-  * combination of landmark based model and hair extraction model.
+   * combination of landmark based model and hair extraction model.
