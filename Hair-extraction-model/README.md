@@ -36,7 +36,7 @@
 </div>
 <hr>
 <div style="height:300">
-<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/Hair-extraction-model/Human%20Hair%20extraction%20Results/hiccup.jpg" width=200 alt="accessibility text">
+<img src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/Hair-extraction-model/Human%20Hair%20extraction%20Results/hiccup.jpg" width=200 height =200 alt="accessibility text">
  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/Hair-extraction-model/Human%20Hair%20extraction%20Results/Hair_Segmentation_Keras-masterhiccup.jpg"> </span>
 </div>
 <hr>
