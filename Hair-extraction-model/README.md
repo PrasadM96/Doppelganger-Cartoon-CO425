@@ -41,6 +41,7 @@
 </div>
 <hr>
 
+<hr>
 
 ## Comparison of human and cartoon hair##
  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/Hair-extraction-model/Comparison/Hair_comparison.PNG "Title is optional")
