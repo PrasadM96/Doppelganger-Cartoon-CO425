@@ -69,3 +69,5 @@
  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/comparison_landmarks_and_hair/Results/Result9/images_match.png" height=400> </span>
 </div>
 <hr>
+
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/comparison_landmarks_and_hair/Results/Result%209/abc.PNG "Title is optional")
