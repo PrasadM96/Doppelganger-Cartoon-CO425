@@ -40,3 +40,7 @@
  <span> <img align="right" src="https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/Hair-extraction-model/Human%20Hair%20extraction%20Results/Hair_Segmentation_Keras-masterhiccup.jpg"> </span>
 </div>
 <hr>
+
+
+## Comparison of human and cartoon hair##
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/Hair-extraction-model/Comparison/Hair_comparison.PNG "Title is optional")
