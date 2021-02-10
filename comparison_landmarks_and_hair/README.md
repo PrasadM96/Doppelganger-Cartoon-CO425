@@ -74,4 +74,4 @@
  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/comparison_landmarks_and_hair/Results/Result%209/abcd.PNG "Title is optional")
  <hr>
   
- ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/comparison_landmarks_and_hair/Results/Result10/Charmin_result.PNG "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/comparison_landmarks_and_hair/Results/Result10/abcd.PNG "Title is optional")
