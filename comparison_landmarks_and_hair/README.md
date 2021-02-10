@@ -75,3 +75,5 @@
  <hr>
   
  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/comparison_landmarks_and_hair/Results/Result10/abcd.PNG "Title is optional")
+
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/comparison_landmarks_and_hair/Results/Result11/c1.PNG "Title is optional")
