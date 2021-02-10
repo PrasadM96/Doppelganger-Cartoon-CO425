@@ -70,4 +70,4 @@
 </div>
 <hr>
 
- ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/comparison_landmarks_and_hair/Results/Result%209/abc.PNG "Title is optional")
+ ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/comparison_landmarks_and_hair/Results/Result%209/abc.PNG "w=1(face only), w=0(hair only), w=0.6 (face and hair both) respectively")
