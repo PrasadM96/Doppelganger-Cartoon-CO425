@@ -6,3 +6,4 @@
  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/Combined%20Model-gender-hair-face/Results/Result2/res2.PNG "Title is optional")
  
  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/Combined%20Model-gender-hair-face/Results/Result3/ssdsdsdsdsd.png "Title is optional")
+  ![picture alt](https://github.com/PrasadM96/Doppelganger-Cartoon-CO425/blob/main/Combined%20Model-gender-hair-face/Results/Result3/res3.PNG "title")
